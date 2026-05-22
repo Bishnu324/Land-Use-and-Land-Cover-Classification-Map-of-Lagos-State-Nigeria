@@ -1,4 +1,5 @@
-## Land-Use-and-Land-Cover-Classification-Map-of-Lagos-State-NigeriThis repository contains the Land Use and Land Cover (LULC)classification and analysis for Lagos State, Nigeria for the year 2025.
+## Land-Use-and-Land-Cover-Classification-Map-of-Lagos-State-Nigeria
+This repository contains the Land Use and Land Cover (LULC)classification and analysis for Lagos State, Nigeria for the year 2025.
 The map visualizes the spatial distribution of major land cover classes across the state, highlighting rapid urbanization and environmental changes.
 
 ### Land Cover Classes
