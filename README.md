@@ -12,8 +12,6 @@ The map visualizes the spatial distribution of major land cover classes across t
 | Yellow  | Agriculture            | Farmlands, croplands            |
 | Red     | Built-Up / Bare Land   | Urban areas, settlements, bare soil |
 
-<img width="3507" height="2480" alt="LULC Lagos Map" src="https://github.com/user-attachments/assets/a9b3cb15-30d3-403c-883f-c12c44f2d656" />
-
 
 ## Map Highlights
 
